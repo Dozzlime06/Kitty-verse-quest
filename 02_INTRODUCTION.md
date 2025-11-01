@@ -1,4 +1,4 @@
-# Introduction to Nekomancy
+# Introduction
 
 **What is Nekomancy?**  
 A Play-to-Earn adventure game on Base featuring collectible cat NFTs (**Nekomancer NFTs**), quests, habitats, and social gameplay.
