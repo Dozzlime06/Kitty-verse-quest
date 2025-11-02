@@ -2,7 +2,7 @@
 
 ### Phase 1: Genesis & Foundations
 - Develop Nekomancy lore & character backstories
-- Smart contract development & audits (Nekomancer NFTs + $PAW)
+- Smart contract development & audits (Nekomancer NFTs + $MANCER)
 - Launch Genesis NFT collection (Supply: 888)
 - Community building (Discord, Twitter)
 
