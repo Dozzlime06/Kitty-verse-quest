@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 **Q:** How many NFTs are in the Genesis collection?  
-**A:** 4444 unique Nekomancer NFTs.
+**A:** 888 unique Nekomancer NFTs.
 
 **Q:** How do I mint my first NFT?  
 **A:** Connect your wallet to the official Base launch page and mint from the Genesis collection.
