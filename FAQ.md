@@ -9,8 +9,8 @@
 **Q:** How does breeding work?  
 **A:** Combine two Nekomancers to create a new unique NFT, inheriting traits from the parents.
 
-**Q:** Where can I trade $PAW?  
+**Q:** Where can I trade $MANCER?  
 **A:** On supported marketplaces or Base integrated platforms.
 
-**Q:** How do I stake $PAW?  
+**Q:** How do I stake $MANCER?  
 **A:** Staking mechanics will be available in-game for governance and rewards.
