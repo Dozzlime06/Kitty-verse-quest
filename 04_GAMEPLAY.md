@@ -14,7 +14,7 @@
 - Fully customizable and upgradable.
 - Can house multiple Nekomancers to increase rewards.
 
-## $PAW Token
+## $MANCER Token
 - In-game purchases, breeding fees, governance participation.
 - Earned from quests and habitat rewards.
 
