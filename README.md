@@ -9,7 +9,7 @@ icon: hand-wave
 **Features:**
 
 * Collect and trade unique cat NFTs
-* Embark on quests to earn $PAW tokens
+* Embark on quests to earn $MANCER tokens
 * Customize habitats for passive rewards
 * Participate in governance and community events
 
