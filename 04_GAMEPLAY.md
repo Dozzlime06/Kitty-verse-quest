@@ -1,7 +1,7 @@
 # Gameplay Mechanics
 
 ## Nekomancer NFTs
-- Each NFT is part of the **4444 Genesis collection**.
+- Each NFT is part of the **888 Genesis collection**.
 - Unique traits, rarity, and personality.
 - Essential for quests, habitats, and breeding.
 
