@@ -20,6 +20,3 @@ icon: hand-wave
 
 **Official Links:**
 * Twitter/X: [https://x.com/nekomancyx](https://x.com/nekomancyx)
-
-
-Check the full [**Roadmap**](03_ROADMAP.md) and detailed [**Documentation**](DOCS/INTRODUCTION.md) for more info.
