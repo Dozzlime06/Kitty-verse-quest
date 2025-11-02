@@ -15,7 +15,7 @@ icon: hand-wave
 
 **Genesis NFT Collection:**
 
-* Supply: 4444 unique **Nekomancer NFTs**
+* Supply: 888 unique **Nekomancer NFTs**
 * Launch on Base network
 
 **Official Links:**
