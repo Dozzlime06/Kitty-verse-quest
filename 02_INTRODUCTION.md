@@ -4,7 +4,7 @@
 A Play-to-Earn adventure game on Base featuring collectible cat NFTs (**Nekomancer NFTs**), quests, habitats, and social gameplay.
 
 **Genesis NFT Collection:**  
-- 4444 unique **Nekomancer NFTs**
+- 1111 unique **Nekomancer NFTs**
 - Each Nekomancer has unique traits and personality
 - Essential for quests, habitats, and breeding
 
